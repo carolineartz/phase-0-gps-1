@@ -9,6 +9,10 @@ def hello
 end
 ```
 
+```html
+<h1>This is a heading</h1>
+```
+
 [link to our repo](https://github.com/pbsugg/phase-0-unit-1/tree/master/week-2/gps1-1)
 
 ![test_image](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
